@@ -1,4 +1,27 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+
+# Environment
+.env
+.env.local
+
+# Editor
+.vscode
+.idea
+
+# OS
+.DS_Store
+
+# Skills
+.agents
+
+# XRift（テンプレート作者のワールド ID を持ち込まない）
+.xrift
+
+# 汎用の雛形から
 .venv/
 __pycache__/
-.DS_Store
 *.swp
